@@ -57,7 +57,7 @@ const Login = ({type, fields, func}) => {
                     ))}
                     <div>
                         <button 
-                        className="w-full p-2 text-white rounded" 
+                        className="w-full p-2 text-white rounded bg-blue-500" 
                         type="submit"
                         >
                             {capital(type)}
