@@ -52,7 +52,7 @@ const HomePage = () => {
               </button>
               <p className="mt-4 text-gray-700">
                Don't have an account? 
-               <Link className="hover:underline hover:text-black ms-1 text-gray-700" to="/signup">
+               <Link className="hover:underline hover:text-black ms-1 text-gray-700 bg-blue-500" to="/signup">
                     Sign Up
                </Link>
               </p>
