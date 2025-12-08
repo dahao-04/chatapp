@@ -47,7 +47,7 @@ const HomePage = () => {
               <p className="text-lg text-gray-700 mb-6">
                Connect with your friends and family instantly.
               </p>
-              <button className="px-6 py-2 rounded-full">
+              <button className="px-6 py-2 rounded-full bg-blue-500">
                <Link to="/login" className='text-white hover:text-white'>Login</Link>
               </button>
               <p className="mt-4 text-gray-700">
